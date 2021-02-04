@@ -1,0 +1,3 @@
+[submodule "game-assets"]
+	path = game-assets
+	url = git@github.com:typeofweb/game-assets.git
